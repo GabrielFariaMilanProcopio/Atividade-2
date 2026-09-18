@@ -102,3 +102,13 @@ As senhas foram armazenadas diretamente no código somente para fins didáticos.
 Durante o desenvolvimento local, Secure permanece false porque a aplicação utiliza HTTP.
 
 Na versão publicada utilizando HTTPS, Secure deve ser true.
+
+## Links da entrega
+
+### Repositório GitHub
+
+https://github.com/GabrielFariaMilanProcopio/Atividade-2.git
+
+### Aplicação publicada no Render
+
+https://atividade-2-b624.onrender.com/
